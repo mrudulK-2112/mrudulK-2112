@@ -3,14 +3,9 @@
 
 ## I'm a  Developer and Student!
 
-- 🔭 I’m currently working on **React Applications & React Native Applications** 
-- 🌱 I’m currently **learning everything**
-- 🥅 2020 Goals: Contribute more projects
-- ⏳ Experimenting with **Machine Learning**
-- 💬 Ask me **something interesting**
-- ⚡ Fun fact: **I love to Innovate**
+- 🔭 I’m currently working on **Frontend Web Development** 
+- 🌱 I’m currently **a Junior at SPPU**
 - 📫 How to reach me: **[Linkedin][linkedin]**
-- 📺 Follow on Youtube for Latest Updates: **[Youtube][youtube]**
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="47%">
 
