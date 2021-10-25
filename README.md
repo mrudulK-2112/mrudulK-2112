@@ -7,7 +7,7 @@
 - 🌱 I’m currently **a Junior at SPPU**
 - 📫 How to reach me: **[Linkedin] [linkedin.com/in/mrudul-khairkar-1317b21b2]**
 
-<img src="![image](https://user-images.githubusercontent.com/81873585/138624466-33919f4a-ee31-4de0-9bd9-1d0a122af0ab.png)" alt="Coder GIF" width="47%">
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jif" alt="Coder GIF" width="47%">
 
 
 
