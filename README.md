@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Web Development** 
 - 🌱 I’m currently **a Junior at SPPU**
-- 📫 How to reach me: **[Linkedin] [linkedin.com/in/mrudul-khairkar-1317b21b2]**
+- 📫 How to reach me: **[Linkedin] ["linkedin.com/in/mrudul-khairkar-1317b21b2"]**
 
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Coder GIF" width="47%">
 
