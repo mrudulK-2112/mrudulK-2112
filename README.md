@@ -7,7 +7,7 @@
 - 🌱 I’m currently **a Junior at SPPU**
 - 📫 How to reach me: **[Linkedin] [linkedin.com/in/mrudul-khairkar-1317b21b2]**
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU" alt="Coder GIF" width="47%">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fcoderaven%2Fcollections%2F857830-Animated&psig=AOvVaw3gdk_ptRQ6myAOlKT6iV6s&ust=1635214026539000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiasZG95PMCFQAAAAAdAAAAABAP" alt="Coder GIF" width="47%">
 
 
 
